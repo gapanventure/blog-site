@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.banner{
+    width: 100%;
+    height: 3000vh;
+    background-image: url(blackbg.jpg);
+    background-size: 100%;
+    background-position: center;
+}
+.title{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0%;
+}
+.tsinelas{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    top: 100px;
+}
+.tsinelasdesc{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    top: 0%;
+}
+.oldcasa1{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    top: 0%;
+}
+.oldcasadesc1{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    top: -100px;
+}
+.oldcasadesc2{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    top: -350px;
+}
+.gapantown{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    top: -200px;
+}
+.lumanggapan{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    top: -300px;
+}
+.lumanggapan2{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    top: -700px;
+}
+.nightmarketpic{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    top: -800px;
+}
+.plaza{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    top: -900px;
+}
+.ategirl{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    top: -900px;
+}
+.nightmarket{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    top: -1000px;
+}
+.group{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    top: -1000px;
+}
